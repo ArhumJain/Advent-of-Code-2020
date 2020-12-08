@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l5KVXj9iSXjupk4gF5Ru0hlW86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -118,25 +122,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="136" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607461084371" />
-    <state width="1899" height="191" key="GridCell.Tab.0.bottom" timestamp="1607462387864">
+    <state width="1899" height="127" key="GridCell.Tab.0.bottom" timestamp="1607464303083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1899" height="127" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607464303083" />
     <state width="1882" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
-    <state width="1899" height="191" key="GridCell.Tab.0.center" timestamp="1607462387864">
+    <state width="1899" height="127" key="GridCell.Tab.0.center" timestamp="1607464303083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="191" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1899" height="127" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607464303083" />
     <state width="1882" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
-    <state width="1899" height="191" key="GridCell.Tab.0.left" timestamp="1607462387864">
+    <state width="1899" height="127" key="GridCell.Tab.0.left" timestamp="1607464303083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="191" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1899" height="127" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607464303083" />
     <state width="1882" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
-    <state width="1899" height="191" key="GridCell.Tab.0.right" timestamp="1607462387864">
+    <state width="1899" height="127" key="GridCell.Tab.0.right" timestamp="1607464303083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="191" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1899" height="127" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607464303083" />
     <state width="1882" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
     <state width="1899" height="191" key="GridCell.Tab.1.bottom" timestamp="1607462387865">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -182,7 +186,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Day 4/solve2.py</url>
-          <line>98</line>
+          <line>99</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
