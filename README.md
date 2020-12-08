@@ -10,3 +10,4 @@ taking interest in this repo,
 
 _Happy Coding!_
 
+**If you wish to contact me you can do so through Discord at _Isukali#2787_**
