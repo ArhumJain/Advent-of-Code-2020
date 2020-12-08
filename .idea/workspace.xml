@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07d8889c-93a6-4ab4-a2a3-58d4c1f33aab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l5KVXj9iSXjupk4gF5Ru0hlW86" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
+  </component>
+  <component name="RunManager" selected="Python.solve1">
+    <configuration name="solve" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent of Code 2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 8/solve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solve1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent of Code 2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/solve1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solve2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent of Code 2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4/solve2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.solve1" />
+        <item itemvalue="Python.solve2" />
+        <item itemvalue="Python.solve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07d8889c-93a6-4ab4-a2a3-58d4c1f33aab" name="Default Changelist" comment="" />
+      <created>1606881535337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606881535337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607405128274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607405128274" />
+    <state x="715" y="136" key="#xdebugger.evaluate" timestamp="1607461084371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="136" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607461084371" />
+    <state width="1899" height="191" key="GridCell.Tab.0.bottom" timestamp="1607462387864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1882" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
+    <state width="1899" height="191" key="GridCell.Tab.0.center" timestamp="1607462387864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1882" height="260" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
+    <state width="1899" height="191" key="GridCell.Tab.0.left" timestamp="1607462387864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1882" height="260" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
+    <state width="1899" height="191" key="GridCell.Tab.0.right" timestamp="1607462387864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1882" height="260" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606886043428" />
+    <state width="1899" height="191" key="GridCell.Tab.1.bottom" timestamp="1607462387865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387865" />
+    <state width="1899" height="191" key="GridCell.Tab.1.center" timestamp="1607462387864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1899" height="191" key="GridCell.Tab.1.left" timestamp="1607462387864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387864" />
+    <state width="1899" height="191" key="GridCell.Tab.1.right" timestamp="1607462387865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="191" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607462387865" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1606929677305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1606929677305" />
+    <state x="526" y="393" key="com.intellij.ide.util.TipDialog" timestamp="1607460353369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="393" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607460353369" />
+    <state x="2621" y="529" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1606927282188" />
+    <state x="1928" y="107" width="1719" height="790" key="dock-window-1" timestamp="1607461359784">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1928" y="107" width="1719" height="790" key="dock-window-1/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607461359784" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607447114430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1607447114430" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day 7/solve2.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day 4/solve2.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
