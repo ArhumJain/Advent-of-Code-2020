@@ -6,8 +6,11 @@ code is welcome! Other than, feel free to take a look at my solutions which you 
 well - if you want. I usually solve each day in the morning rather than at 9 PM on the night before which
 is when the puzzles for the next day are released. Usually I will have the problem solved before 12 PM
 depending on the difficulty. Some more challenging problems can take longer than that! Thanks for
-taking interest in this repo,
+taking interest in this repo.
+
 
 _Happy Coding!_
 
 **If you wish to contact me you can do so through Discord at _Isukali#2787_**
+
+_I have currently stopped working on AoC puzzles due to other programming areas on which I need to focus more on. Projects will be made public upon completion_
